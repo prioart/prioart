@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on Capture the Flag events
 - 📫 How to reach me 
 - What I'm reading, listening or watching: 
-- Working with data and APIs in JavaScript - Post with Fetch() @ https://www.youtube.com/watch?v=Kw5tC5nQMRY 
+     - Working with data and APIs in JavaScript - Post with Fetch() @ https://www.youtube.com/watch?v=Kw5tC5nQMRY 
+     - Postman beginner tutorial 19 💡API Authorization in Postman @ https://www.youtube.com/watch?v=z2c3ZBJlYKo 
 <!---
 prioart/prioart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
